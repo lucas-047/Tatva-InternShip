@@ -1,0 +1,297 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\.NET\\Test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A01C778-FF9A-4351-9B5E-A8E5A98B008D}|Test\\Test.csproj|d:\\code\\.net\\test\\test\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A01C778-FF9A-4351-9B5E-A8E5A98B008D}|Test\\Test.csproj|solutionrelative:test\\controller\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A01C778-FF9A-4351-9B5E-A8E5A98B008D}|Test\\Test.csproj|d:\\code\\.net\\test\\test\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A01C778-FF9A-4351-9B5E-A8E5A98B008D}|Test\\Test.csproj|solutionrelative:test\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A01C778-FF9A-4351-9B5E-A8E5A98B008D}|Test\\Test.csproj|d:\\code\\.net\\test\\test\\service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A01C778-FF9A-4351-9B5E-A8E5A98B008D}|Test\\Test.csproj|solutionrelative:test\\service\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A01C778-FF9A-4351-9B5E-A8E5A98B008D}|Test\\Test.csproj|d:\\code\\.net\\test\\test\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A01C778-FF9A-4351-9B5E-A8E5A98B008D}|Test\\Test.csproj|solutionrelative:test\\controller\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A01C778-FF9A-4351-9B5E-A8E5A98B008D}|Test\\Test.csproj|d:\\code\\.net\\test\\test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A01C778-FF9A-4351-9B5E-A8E5A98B008D}|Test\\Test.csproj|solutionrelative:test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A01C778-FF9A-4351-9B5E-A8E5A98B008D}|Test\\Test.csproj|d:\\code\\.net\\test\\test\\controller\\authtestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A01C778-FF9A-4351-9B5E-A8E5A98B008D}|Test\\Test.csproj|solutionrelative:test\\controller\\authtestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A01C778-FF9A-4351-9B5E-A8E5A98B008D}|Test\\Test.csproj|d:\\code\\.net\\test\\test\\models\\userroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A01C778-FF9A-4351-9B5E-A8E5A98B008D}|Test\\Test.csproj|solutionrelative:test\\models\\userroledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A01C778-FF9A-4351-9B5E-A8E5A98B008D}|Test\\Test.csproj|d:\\code\\.net\\test\\test\\models\\usernew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A01C778-FF9A-4351-9B5E-A8E5A98B008D}|Test\\Test.csproj|solutionrelative:test\\models\\usernew.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A01C778-FF9A-4351-9B5E-A8E5A98B008D}|Test\\Test.csproj|d:\\code\\.net\\test\\test\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A01C778-FF9A-4351-9B5E-A8E5A98B008D}|Test\\Test.csproj|solutionrelative:test\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A01C778-FF9A-4351-9B5E-A8E5A98B008D}|Test\\Test.csproj|d:\\code\\.net\\test\\test\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A01C778-FF9A-4351-9B5E-A8E5A98B008D}|Test\\Test.csproj|solutionrelative:test\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A01C778-FF9A-4351-9B5E-A8E5A98B008D}|Test\\Test.csproj|d:\\code\\.net\\test\\test\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A01C778-FF9A-4351-9B5E-A8E5A98B008D}|Test\\Test.csproj|solutionrelative:test\\models\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A01C778-FF9A-4351-9B5E-A8E5A98B008D}|Test\\Test.csproj|d:\\code\\.net\\test\\test\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A01C778-FF9A-4351-9B5E-A8E5A98B008D}|Test\\Test.csproj|solutionrelative:test\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A01C778-FF9A-4351-9B5E-A8E5A98B008D}|Test\\Test.csproj|d:\\code\\.net\\test\\test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8A01C778-FF9A-4351-9B5E-A8E5A98B008D}|Test\\Test.csproj|solutionrelative:test\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A01C778-FF9A-4351-9B5E-A8E5A98B008D}|Test\\Test.csproj|d:\\code\\.net\\test\\test\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A01C778-FF9A-4351-9B5E-A8E5A98B008D}|Test\\Test.csproj|solutionrelative:test\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A01C778-FF9A-4351-9B5E-A8E5A98B008D}|Test\\Test.csproj|d:\\code\\.net\\test\\test\\controller\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A01C778-FF9A-4351-9B5E-A8E5A98B008D}|Test\\Test.csproj|solutionrelative:test\\controller\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A01C778-FF9A-4351-9B5E-A8E5A98B008D}|Test\\Test.csproj|d:\\code\\.net\\test\\test\\data\\repositories\\irepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A01C778-FF9A-4351-9B5E-A8E5A98B008D}|Test\\Test.csproj|solutionrelative:test\\data\\repositories\\irepository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A01C778-FF9A-4351-9B5E-A8E5A98B008D}|Test\\Test.csproj|d:\\code\\.net\\test\\test\\service\\iservice\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A01C778-FF9A-4351-9B5E-A8E5A98B008D}|Test\\Test.csproj|solutionrelative:test\\service\\iservice\\iuserservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "D:\\Code\\.NET\\Test\\Test\\Service\\BookService.cs",
+              "RelativeDocumentMoniker": "Test\\Service\\BookService.cs",
+              "ToolTip": "D:\\Code\\.NET\\Test\\Test\\Service\\BookService.cs",
+              "RelativeToolTip": "Test\\Service\\BookService.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwBIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T10:05:18.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\Code\\.NET\\Test\\Test\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "Test\\Models\\Role.cs",
+              "ToolTip": "D:\\Code\\.NET\\Test\\Test\\Models\\Role.cs",
+              "RelativeToolTip": "Test\\Models\\Role.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:03:29.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\Code\\.NET\\Test\\Test\\Models\\LoginModel.cs",
+              "RelativeDocumentMoniker": "Test\\Models\\LoginModel.cs",
+              "ToolTip": "D:\\Code\\.NET\\Test\\Test\\Models\\LoginModel.cs",
+              "RelativeToolTip": "Test\\Models\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:03:27.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Code\\.NET\\Test\\Test\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Test\\Models\\Book.cs",
+              "ToolTip": "D:\\Code\\.NET\\Test\\Test\\Models\\Book.cs",
+              "RelativeToolTip": "Test\\Models\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:03:25.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Code\\.NET\\Test\\Test\\Program.cs",
+              "RelativeDocumentMoniker": "Test\\Program.cs",
+              "ToolTip": "D:\\Code\\.NET\\Test\\Test\\Program.cs",
+              "RelativeToolTip": "Test\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T04:45:08.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Code\\.NET\\Test\\Test\\appsettings.json",
+              "RelativeDocumentMoniker": "Test\\appsettings.json",
+              "ToolTip": "D:\\Code\\.NET\\Test\\Test\\appsettings.json",
+              "RelativeToolTip": "Test\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-27T04:45:06.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\Code\\.NET\\Test\\Test\\Controller\\BooksController.cs",
+              "RelativeDocumentMoniker": "Test\\Controller\\BooksController.cs",
+              "ToolTip": "D:\\Code\\.NET\\Test\\Test\\Controller\\BooksController.cs",
+              "RelativeToolTip": "Test\\Controller\\BooksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T04:40:46.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Code\\.NET\\Test\\Test\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Test\\Models\\User.cs",
+              "ToolTip": "D:\\Code\\.NET\\Test\\Test\\Models\\User.cs",
+              "RelativeToolTip": "Test\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T03:24:48.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUserServices.cs",
+              "DocumentMoniker": "D:\\Code\\.NET\\Test\\Test\\Service\\IService\\IUserServices.cs",
+              "RelativeDocumentMoniker": "Test\\Service\\IService\\IUserServices.cs",
+              "ToolTip": "D:\\Code\\.NET\\Test\\Test\\Service\\IService\\IUserServices.cs",
+              "RelativeToolTip": "Test\\Service\\IService\\IUserServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T02:56:57.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Code\\.NET\\Test\\Test\\Data\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Test\\Data\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\Code\\.NET\\Test\\Test\\Data\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Test\\Data\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAIwBwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T03:18:41.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Code\\.NET\\Test\\Test\\Controller\\UserController.cs",
+              "RelativeDocumentMoniker": "Test\\Controller\\UserController.cs",
+              "ToolTip": "D:\\Code\\.NET\\Test\\Test\\Controller\\UserController.cs",
+              "RelativeToolTip": "Test\\Controller\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T03:11:22.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRoleDto.cs",
+              "DocumentMoniker": "D:\\Code\\.NET\\Test\\Test\\Models\\UserRoleDto.cs",
+              "RelativeDocumentMoniker": "Test\\Models\\UserRoleDto.cs",
+              "ToolTip": "D:\\Code\\.NET\\Test\\Test\\Models\\UserRoleDto.cs",
+              "RelativeToolTip": "Test\\Models\\UserRoleDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:03:35.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthTestController.cs",
+              "DocumentMoniker": "D:\\Code\\.NET\\Test\\Test\\Controller\\AuthTestController.cs",
+              "RelativeDocumentMoniker": "Test\\Controller\\AuthTestController.cs",
+              "ToolTip": "D:\\Code\\.NET\\Test\\Test\\Controller\\AuthTestController.cs",
+              "RelativeToolTip": "Test\\Controller\\AuthTestController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T08:08:57.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Code\\.NET\\Test\\Test\\Controller\\AuthController.cs",
+              "RelativeDocumentMoniker": "Test\\Controller\\AuthController.cs",
+              "ToolTip": "D:\\Code\\.NET\\Test\\Test\\Controller\\AuthController.cs",
+              "RelativeToolTip": "Test\\Controller\\AuthController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwDIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T03:22:45.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserNew.cs",
+              "DocumentMoniker": "D:\\Code\\.NET\\Test\\Test\\Models\\UserNew.cs",
+              "RelativeDocumentMoniker": "Test\\Models\\UserNew.cs",
+              "ToolTip": "D:\\Code\\.NET\\Test\\Test\\Models\\UserNew.cs",
+              "RelativeToolTip": "Test\\Models\\UserNew.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-27T13:03:32.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Code\\.NET\\Test\\Test\\Data\\Repositories\\IRepository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Test\\Data\\Repositories\\IRepository\\IUserRepository.cs",
+              "ToolTip": "D:\\Code\\.NET\\Test\\Test\\Data\\Repositories\\IRepository\\IUserRepository.cs",
+              "RelativeToolTip": "Test\\Data\\Repositories\\IRepository\\IUserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T03:21:44.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Code\\.NET\\Test\\Test\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "Test\\Service\\UserService.cs",
+              "ToolTip": "D:\\Code\\.NET\\Test\\Test\\Service\\UserService.cs",
+              "RelativeToolTip": "Test\\Service\\UserService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T02:59:53.234Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
